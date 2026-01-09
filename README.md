@@ -19,7 +19,7 @@
 🔹[Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚀 Projetos em destaque
-🔗 [Projeto1](https://github.com/sanjoaquim18/FrontEndProject2k25) – Este projeto foi desenvolvido como parte da disciplina Tecnologia para Front-End. O site Luxo – Aluguel de Iates representa uma proposta de página comercial voltada para o aluguel de iates, buscando transmitir uma identidade visual elegante e moderna.
+🔗 [Projeto1](https://github.com/sanjoaquim18/FrontEndProject2k25) – O site Luxo – Aluguel de Iates representa uma proposta de página comercial voltada para o aluguel de iates, buscando transmitir uma identidade visual elegante e moderna.
 🔗 [Projeto2](https://github.com/sanjoaquim18/Minha_Fanta) – Aplicação front-end desenvolvida com HTML, CSS e JavaScript, contendo animações e interações dinâmicas, baseadas na identidade visual da Fanta, com foco em design responsivo e experiência do usuário.
 
 ## 📫 Me encontre
