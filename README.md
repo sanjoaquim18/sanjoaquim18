@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu me chamo Sandro Joaquim!
 
-<!--
-**sanjoaquim18/sanjoaquim18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estou no 1º Período da graduação! Sou um entusiasta por tecnologia e desenvolvimento, e estou em constante aprimoramento, sempre buscando a melhor forma de aplicar o conhecimento técnico na criação de soluções inovadoras.
+   ​Atualmente, estou focado em adquirir experiência prática através de oportunidades de estágio ou projetos desafiadores que me permitam crescer profissionalmente e contribuir de forma significativa.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+🔹[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+🔹[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🔹[PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+🔹[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+🔹[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+🔹[Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🚀 Projetos em destaque
+🔗 [Projeto1](https://github.com/sanjoaquim18/FrontEndProject2k25) – Este projeto foi desenvolvido como parte da disciplina Tecnologia para Front-End. O site Luxo – Aluguel de Iates representa uma proposta de página comercial voltada para o aluguel de iates, buscando transmitir uma identidade visual elegante e moderna.
+🔗 [Projeto2](https://github.com/sanjoaquim18/Minha_Fanta) – Aplicação front-end desenvolvida com HTML, CSS e JavaScript, contendo animações e interações dinâmicas, baseadas na identidade visual da Fanta, com foco em design responsivo e experiência do usuário.
+
+## 📫 Me encontre
+📎 LinkedIn: www.linkedin.com/in/sandro-joaquim-a22077300
+📎 E-mail: sanjoaquim18@gmail.com
