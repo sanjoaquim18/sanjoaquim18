@@ -4,7 +4,7 @@
    ​Atualmente, estou focado em adquirir experiência prática através de oportunidades de estágio ou projetos desafiadores que me permitam crescer profissionalmente e contribuir de forma significativa.
 
 ## 💻 Tecnologias
-<p align="center">
+<p left="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
