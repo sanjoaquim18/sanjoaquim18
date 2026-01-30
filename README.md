@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Sandro Joaquim!
 
-🎓 Estou no 1º Período da graduação! Sou um entusiasta por tecnologia e desenvolvimento, e estou em constante aprimoramento, sempre buscando a melhor forma de aplicar o conhecimento técnico na criação de soluções inovadoras.
+🎓 Estou no 2º Período da graduação! Sou um entusiasta por tecnologia e desenvolvimento, e estou em constante aprimoramento, sempre buscando a melhor forma de aplicar o conhecimento técnico na criação de soluções inovadoras.
    ​Atualmente, estou focado em adquirir experiência prática através de oportunidades de estágio ou projetos desafiadores que me permitam crescer profissionalmente e contribuir de forma significativa.
 
 ## 💻 Tecnologias
